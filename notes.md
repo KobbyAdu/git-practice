@@ -21,3 +21,10 @@ Three step committing process
     git add file_that_changed.rb
 * commit changes 
     git commit -m "My commit message"
+
+Show history
+--------------
+
+    git log
+
+    
